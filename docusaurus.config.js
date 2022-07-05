@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Sline-X', // Usually your GitHub org/user name.
-  projectName: 'mddoc', // Usually your repo name.
+  projectName: 'Sline-X', // Usually your repo name.
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
